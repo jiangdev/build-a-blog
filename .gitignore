@@ -29,6 +29,13 @@ node_modules
 # Debug log from npm
 npm-debug.log
 
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
 # sass
 .sass-cache/
 *.css.map
