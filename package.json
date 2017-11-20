@@ -1,0 +1,25 @@
+{
+  "name": "build-a-blog",
+  "version": "1.0.0",
+  "description": "Building a blog from scratch using node, react/redux, and mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangdev/build-a-blog.git"
+  },
+  "keywords": [
+    "node",
+    "react",
+    "redux",
+    "mongo"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiangdev/build-a-blog/issues"
+  },
+  "homepage": "https://github.com/jiangdev/build-a-blog#readme"
+}
